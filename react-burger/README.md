@@ -1,3 +1,13 @@
+Project built with OReilly tutorial 'React - The Complete Guide (incl. Hooks, React Router, and Redux) by MaximilianSchwarzmuller
+
+https://learning.oreilly.com/videos/react-the/9781789132229/9781789132229-video3_3
+
+Clone repo and install with npm install
+
+Run with npm start
+
+Thanks!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
